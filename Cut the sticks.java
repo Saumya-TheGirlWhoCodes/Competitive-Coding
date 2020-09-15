@@ -84,6 +84,6 @@ Our output is
 2 // since array[4] != array[3]
 1 // since array[5] != array[4]
 
-As we traverse the array from left to right, every time we reach a new number, we can consider that as "cutting the sticks" for the numbers we already traverse.
+As we traverse the array from left to right, every time we reach a new number, we can consider that as "cutting the sticks" for the numbers we already traverse
 
 */
