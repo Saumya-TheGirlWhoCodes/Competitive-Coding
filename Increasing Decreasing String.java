@@ -14,7 +14,6 @@ In each step, If the smallest or the largest character appears more than once yo
 Return the result string after sorting s with this algorithm.
 
 Example 1:
-
 Input: s = "aaaabbbbcccc"
 Output: "abccbaabccba"
 Explanation: After steps 1, 2 and 3 of the first iteration, result = "abc"
@@ -24,28 +23,23 @@ After steps 1, 2 and 3 of the second iteration, result = "abccbaabc"
 After steps 4, 5 and 6 of the second iteration, result = "abccbaabccba"
 
 Example 2:
-
 Input: s = "rat"
 Output: "art"
 Explanation: The word "rat" becomes "art" after re-ordering it with the mentioned algorithm.
 
 Example 3:
-
 Input: s = "leetcode"
 Output: "cdelotee"
 
 Example 4:
-
 Input: s = "ggggggg"
 Output: "ggggggg"
 
 Example 5:
-
 Input: s = "spo"
 Output: "ops"
 
 Constraints:
-
 1 <= s.length <= 500
 s contains only lower-case English letters.
 
