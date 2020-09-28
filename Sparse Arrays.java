@@ -12,7 +12,6 @@ Each of the next N lines contains a string strings[i].
 The next line contains Q, the size of queries.
 Each of the next q lines contains a string queries[i].
 
-
 Output Format
 Return an integer array of the results of all queries in order.
 
