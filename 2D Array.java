@@ -14,7 +14,6 @@ For example, if we create an hourglass using the number 1 within an array full o
 0 0 0 0 0 0
 
 Actually, there are many hourglasses in the array above. The three leftmost hourglasses are the following:
-
 1 1 1     1 1 0     1 0 0
   1         0         0
 1 1 1     1 1 0     1 0 0
