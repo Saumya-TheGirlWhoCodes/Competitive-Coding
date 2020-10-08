@@ -6,7 +6,7 @@ Build the target array using the following operations:
 Push: Read a new element from the beginning list, and push it in the array.
 Pop: delete the last element of the array.
 If the target array is already built, stop reading more elements.
-You are guaranteed that the target array is strictly increasing, only containing numbers between 1 to n inclusive.
+You are guaranteed that the target array is strictly increaing, only containing numbers between 1 to n inclusive.
 
 Return the operations to build the target array.
 
