@@ -16,7 +16,8 @@ Do not use method overloading because your answer will not be accepted.
 
 */
 
-class Printer {
+class Printer
+{
     public <T> void printArray(T[] array) 
     {
         for (T item : array) 
